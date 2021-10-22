@@ -1,0 +1,2 @@
+﻿  OPENCVRSS.cpp
+C:\Users\Administrator\source\repos\OPENCVRSS\OPENCVRSS\OPENCVRSS.cpp(6,43): error C2065: 'IMREAD_GRAYSCALE': undeclared identifier
